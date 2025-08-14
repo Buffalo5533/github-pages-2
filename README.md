@@ -1,1 +1,1 @@
-# github-pages-2
+Your CNAME points to GitHub Pages but your GitHub Pages site doesn't exist anymore, get your domain back and secure it by [verifying it on GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages#verifying-a-domain-for-your-user-site)
